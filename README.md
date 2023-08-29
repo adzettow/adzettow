@@ -22,7 +22,7 @@ I have a keen interest in the automation processes of civil engineering tasks.
 
 ## 📌 Skills
 - **Python Programming**: Equipped with the ability to automate tasks, analyze data, and implement machine learning models.
-- - **Engineering**: Proficient in civil engineering concepts, from design to implementation.
+- **Engineering**: Proficient in civil engineering concepts, from design to implementation.
 - **Project Management**: Experience in planning, executing, and closing projects, ensuring that they complete on time and on budget.
 - **LaTeX**: Proficient in creating structured documents and academic papers.
 - **Test Automation**: Familiarity with various tools and techniques for automated testing.
