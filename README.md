@@ -1,6 +1,6 @@
 # Muhammet YAĞCIOĞLU
 
-Hello! I am Muhammet YAĞCIOĞLU, a passionate Civil Engineer from Urla, İzmir, Turkey. With skills in project management, engineering, and machine learning, I always seek to combine my analytical abilities with technological tools to create impactful solutions.
+Hello! I am Muhammet YAĞCIOĞLU, a passionate Civil Engineer Student from Urla, İzmir, Turkey. With skills in project management, engineering, and machine learning, I always seek to combine my analytical abilities with technological tools to create impactful solutions.
 
 🌐 **Position**: Civil Engineering Student  
 📍 **Location**: Urla, İzmir, Turkey  
